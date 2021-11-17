@@ -8,7 +8,7 @@ assets:
   uploadDir: images
   publicPath: /
 dataDir: content/data
-pagesDirsss: content/pages
+pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
 styleObjectModelName: ThemeStyle
